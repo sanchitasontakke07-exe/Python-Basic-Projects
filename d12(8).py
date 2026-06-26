@@ -40,6 +40,3 @@ try:
 
 except ValueError:
     print("Invalid input! Enter correct values.")
-
-except Exception as e:
-    print("Error:", e)
